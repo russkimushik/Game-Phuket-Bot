@@ -14,7 +14,7 @@ python -m venv .venv
 ```
 .venv\Scripts\activate
 ```
-5) Install all necessary libraries from the file reqs.txt:
+4) Install all necessary libraries from the file reqs.txt:
 ```
 pip install -r reqs.txt
 ```
